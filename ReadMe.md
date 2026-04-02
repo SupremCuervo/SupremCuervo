@@ -1,10 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=240&section=header&text=SUPREMCUERVO&fontSize=48&fontColor=fff&fontAlignY=35&desc=Bases%20de%20datos%20%E2%80%A2%20Sistemas%20operativos%20%E2%80%A2%20IA%20%E2%80%A2%20Ciberseguridad&descSize=18&descAlignY=58&descAlign=50&animation=twinkling" alt="Banner perfil" width="100%"/>
+<!-- Sin capsule-render (Vercel): a veces el proxy de GitHub recibe HTML de error y parece un "video" con "content not available". -->
+<h1>SUPREMCUERVO</h1>
+<p><strong>Bases de datos · Sistemas operativos · IA · Ciberseguridad</strong></p>
 
 <br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3QGQ0/giphy.gif" width="420" alt="Desarrollo y tecnología"/>
+<!-- Giphy/Tenor suelen fallar en GitHub (el proxy de GitHub no siempre puede cargar esos CDNs). -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00F5FF&center=true&vCenter=true&width=700&height=70&lines=Hola%2C+soy+SupremCuervo;Datos+%7C+Sistemas+%7C+IA+%7C+Ciberseguridad" alt="Texto animado perfil"/>
+
+<br/>
+
+<!-- Imagen de iconos que SÍ suele verse bien en el perfil de GitHub -->
+<img src="https://skillicons.dev/icons?i=linux,windows,bash,py,cs,dotnet,mysql,postgres,docker,git,github,vscode&perline=7" alt="Iconos de tecnologías" />
 
 ### Hola, soy **SupremCuervo** — perfil orientado a **ingeniería de sistemas**, **datos**, **IA** y **seguridad**.
 
@@ -12,6 +20,24 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/SupremCuervo?style=for-the-badge&logo=github&label=Seguidores&labelColor=1a1a2e&color=6366f1)](https://github.com/SupremCuervo)
 [![Repos](https://img.shields.io/badge/Repositorios-Ver%20perfil-6366f1?style=for-the-badge&logo=github&labelColor=1a1a2e)](https://github.com/SupremCuervo?tab=repositories)
+
+<br/>
+
+<details align="left">
+<summary><strong>¿Por qué no se ve el GIF de Giphy y cómo poner uno que sí funcione?</strong></summary>
+
+1. **Giphy/Tenor** enlazados directo a `media.giphy.com` a veces **no cargan** en el README del perfil porque GitHub pasa las imágenes por un proxy y esos sitios pueden bloquear o rechazar la petición.
+2. **Qué hacer:** descarga el **archivo `.gif`** a tu PC.
+3. En tu repositorio de perfil (**`SupremCuervo/SupremCuervo`**, el que tiene el README del perfil), crea una carpeta **`assets`**, sube por ejemplo **`banner.gif`** y haz commit.
+4. En `cuervo.md` / `README.md` usa (cambia rama y nombre si hace falta):
+
+```markdown
+![Animación](https://github.com/SupremCuervo/SupremCuervo/raw/main/assets/banner.gif)
+```
+
+5. **Dónde buscar GIFs:** [Giphy](https://giphy.com) · [Tenor](https://tenor.com) · términos como *coding*, *hacker*, *developer* (siempre **descargar** y subir a tu repo).
+
+</details>
 
 </div>
 
@@ -114,10 +140,25 @@
 <a href="mailto:cuervotremendosoy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
 
+---
+
+## Estadísticas de GitHub
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=SupremCuervo&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://github-readme-stats.vercel.app/api?username=SupremCuervo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/><br/>
+
+<img src="https://nirzak-streak-stats.vercel.app/?user=SupremCuervo&theme=merko&hide_border=false" alt="Racha de contribuciones"/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupremCuervo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Contador visitcount.itsvg.in eliminado: suele fallar o devolver contenido no válido detrás del proxy de GitHub. -->
 
 ### Apoyar el contenido
 
@@ -129,5 +170,23 @@
 <br/>
 
 <sub>Plantilla base GPRM · Personalizado para perfil profesional (datos, SO, IA, ciberseguridad)</sub>
+
+<br/><br/>
+
+<details>
+<summary><b>¿Quieres un GIF y que se vea bien en GitHub?</b></summary>
+
+Los enlaces directos de **Giphy** / **Tenor** a veces **no cargan** en el README porque GitHub pasa las imágenes por un proxy y esos sitios lo bloquean.
+
+**Opciones que sí funcionan:**
+
+1. **Subir el GIF a tu repo de perfil** `SupremCuervo/SupremCuervo` (carpeta `assets/` o similar) y usar:
+   `https://github.com/SupremCuervo/SupremCuervo/raw/main/assets/nombre.gif`
+2. **Descargar** el GIF desde [giphy.com](https://giphy.com) o [tenor.com](https://tenor.com) (busca *coding*, *cybersecurity*, *developer*, etc.) y subirlo tú a GitHub.
+3. Truco rápido: crear un **Issue** en un repo, **adjuntar** el GIF en un comentario y copiar la URL que genera GitHub (`user-images.githubusercontent.com/...`); esa URL suele verse bien en el README.
+
+Arriba usamos **texto animado SVG** ([readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)) porque es estable en perfiles GitHub.
+
+</details>
 
 </div>
