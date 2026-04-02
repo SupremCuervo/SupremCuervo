@@ -114,21 +114,6 @@
 <a href="mailto:cuervotremendosoy@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
 </p>
 
----
-
-## Estadísticas de GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SupremCuervo&theme=merko&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats"/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=SupremCuervo&theme=merko&hide_border=false" alt="Racha de contribuciones"/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SupremCuervo&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Lenguajes más usados"/>
-
-</div>
-
----
 
 <div align="center">
 
