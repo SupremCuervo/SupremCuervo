@@ -23,26 +23,6 @@
 
 <br/>
 
-<details align="left">
-<summary><strong>¿Por qué no se ve el GIF de Giphy y cómo poner uno que sí funcione?</strong></summary>
-
-1. **Giphy/Tenor** enlazados directo a `media.giphy.com` a veces **no cargan** en el README del perfil porque GitHub pasa las imágenes por un proxy y esos sitios pueden bloquear o rechazar la petición.
-2. **Qué hacer:** descarga el **archivo `.gif`** a tu PC.
-3. En tu repositorio de perfil (**`SupremCuervo/SupremCuervo`**, el que tiene el README del perfil), crea una carpeta **`assets`**, sube por ejemplo **`banner.gif`** y haz commit.
-4. En `cuervo.md` / `README.md` usa (cambia rama y nombre si hace falta):
-
-```markdown
-![Animación](https://github.com/SupremCuervo/SupremCuervo/raw/main/assets/banner.gif)
-```
-
-5. **Dónde buscar GIFs:** [Giphy](https://giphy.com) · [Tenor](https://tenor.com) · términos como *coding*, *hacker*, *developer* (siempre **descargar** y subir a tu repo).
-
-</details>
-
-</div>
-
----
-
 ## Sobre mí
 
 | | |
